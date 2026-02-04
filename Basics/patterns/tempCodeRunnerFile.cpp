@@ -1,2 +1,2 @@
-  // if(ch > 122)
-                // break;
+if (num>n)
+    break;
