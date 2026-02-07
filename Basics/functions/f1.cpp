@@ -12,5 +12,4 @@ int main(){
     cout<<"Enetr n : ";
     cin>>n;
     cout<<sum(n);
-
 }
