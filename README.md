@@ -6,4 +6,4 @@ This repository will be having the codes and question that I will do rather than
 Language - C++
 
 Topics -: 
-1. Basic Codes (ifElse, Loops, Operators, Calculator, input-output, pesudocode, flowchart, patterns)
+1. Basic Codes (ifElse, Loops, Operators, Calculator, input-output, pesudocode, flowchart, patterns, funnctions)
