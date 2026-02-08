@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int fact(int n){
     int fac = 1;
     for(int i = 2; i<=n; i++){
@@ -8,9 +7,9 @@ int fact(int n){
     }
     return fac;
 }
+int bino(int n, int r){
+    return fact(n)/(fact(r)*fact(n-r));
+}
 int main(){
-    int n;
-    cout<<"Enter n : ";
-    cin>>n;
-    cout<<fact(n)<<endl;
+    cout<<bino(6,3);
 }
