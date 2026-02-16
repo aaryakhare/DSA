@@ -13,13 +13,12 @@ void search(int arr[] , int n, int target){
     }
 }
 int main(){
-    int n; 
+    int n, target; 
     cout<<"Enter size : ";
     cin>>n;
-    int arr[n];
-    int target ;
     cout<<"Enter target : ";
     cin>>target;
+    int arr[n];
     for(int i = 0; i<n; i++){
         cout<<"Enter element : ";
         cin>>arr[i];
