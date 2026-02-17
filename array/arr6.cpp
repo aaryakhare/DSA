@@ -12,7 +12,7 @@ void unique(int arr[], int n){
             }
         }
         if(uni == true){
-            cout<<arr[i];
+            cout<<arr[i]<<endl;
             got = true;
         }
     }
